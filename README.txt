@@ -1,4 +1,4 @@
-/cyb/ -The Cyberpunk General
+/cyb/ - The Cyberpunk General
 
 >IRC: #/g/punk on irc.rizon.net
 >TOX: #/g/punk TOX groupchat; add the following:
