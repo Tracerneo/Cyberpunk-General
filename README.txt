@@ -11,6 +11,10 @@
 Healthy reminder that cyberpunk is now and that one should start living it instead of fantasizing like some cyberhipster
 http://www.antipope.org/charlie/blog-static/2013/12/psa-why-there-wont-be-a-third-.html
 >Latest news from the spit jockeys
+GPS-enabled dumpster diving for fun and profit
+https://www.youtube.com/watch?v=LbOmBqFTupk
+Contact lenses with built-in cameras and other sensors are now a thing
+http://www.patentbolt.com/2014/04/google-invents-micro-camera-system-for-future-contact-lenses.html
 Condoleezza Rice, formerly the United States' Secretary of State during the Bush Administration, has joined; Dropbox's Board of Directors
 http://www.drop-dropbox.com/
 Jeff Bezos Says Amazon Is Seriously Serious About Drone Deliveries;
@@ -19,10 +23,6 @@ Intelligence Agencies knew about Heartbleed for years;
 http://www.bloomberg.com/news/2014-04-11/nsa-said-to-have-used-heartbleed-bug-exposing-consumers.html
 Google recently released the Module Developers Kit for Project Ara;
 http://www.projectara.com/mdk/
-Tracking Point, the company behind the the much controversial but cool as shit smart rifle, has extended their technologies to the AR platform;
-https://www.youtube.com/watch?v=tHXzgUA2ckc
-EU votes to uphold net neutrality
-https://pirateparty.org.uk/press/europe-takes-leap-toward-net-neutrality
 
 Linux For Beginners: http://pastebin.com/HSW58RV4
 Cyberpunk Tech: http://pastebin.com/xsTMZRtm
