@@ -23,14 +23,20 @@ Condoleezza Rice, formerly the United States' Secretary of State during the Bush
 http://www.drop-dropbox.com/
 
 Linux For Beginners: http://pastebin.com/HSW58RV4
+https://zerobin.net/?e0482a6e1f7d3746#1ooipttzABsRv01yc6+n3mbTVdSIashZEVK++VmjdzU=
 Cyberpunk Tech: http://pastebin.com/xsTMZRtm
+https://zerobin.net/?afef0c2e36b9bdea#xmF0w/9qKcXsmeou4jte+9wIQ4dPeJF9dkYl/PJIdx4=
 Nackt's Library: http://pastebin.com/qpHhTxfK
+https://zerobin.net/?f04748b924d6fdbc#1QzrJ19Nx9mqtyTr7pgFy9wG7NQGCQ6ikLa7TRKA8+Q=
+
+
 
 >>> Finding out more <<<
 http://wiki.installgentoo.com/Cyberpunk 
 http://cyberlife.neocities.org/
 http://tracerneo.eu.org/cyb/
 http://pastebin.com/YVLj1b4n
+https://zerobin.net/?857ea8fcd9c707dd#qWLVhJWQgKWyzDTJQP2lTlWVPLzt0u9duYMy55I3VZM=
 
 >> Contains:
 Circumventing surveillance, in meatspace
