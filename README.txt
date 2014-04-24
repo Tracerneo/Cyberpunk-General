@@ -19,8 +19,6 @@ OpenSSL code beyond repair, claims creator of “LibreSSL” fork
 http://arstechnica.com/information-technology/2014/04/openssl-code-beyond-repair-claims-creator-of-libressl-fork/
 Contact lenses with built-in cameras and other sensors are now a thing
 http://www.patentbolt.com/2014/04/google-invents-micro-camera-system-for-future-contact-lenses.html
-Condoleezza Rice, formerly the United States' Secretary of State during the Bush Administration, has joined Dropbox's Board of Directors
-http://www.drop-dropbox.com/
 
 Linux For Beginners: https://zerobin.net/?e0482a6e1f7d3746#1ooipttzABsRv01yc6+n3mbTVdSIashZEVK++VmjdzU=
 Cyberpunk Tech: https://zerobin.net/?afef0c2e36b9bdea#xmF0w/9qKcXsmeou4jte+9wIQ4dPeJF9dkYl/PJIdx4=
