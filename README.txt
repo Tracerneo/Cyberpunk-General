@@ -2,9 +2,8 @@
 
 >IRC: #/g/punk on irc.rizon.net
 >TOX: #/g/punk TOX groupchat; add the following:
-[code]675C6B1CBE1AEDB491B45BD
-6B7D91D680DA62980A334E15C5DB5
-641ABC738122DCEF7A9AFBF8[/code] and message "invite"
+[code]675C6B1CBE1AEDB491B45BD6B7D91D680DA629
+80A334E15C5DB5641ABC738122DCEF7A9AFBF8[/code] and message "invite"
 
 >>> News <<<
 Healthy reminder that cyberpunk is now and that one should start living it instead of fantasizing like some cyberhipster
