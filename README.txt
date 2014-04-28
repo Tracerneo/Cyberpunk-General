@@ -4,6 +4,7 @@
 >TOX: #/g/punk TOX groupchat; add the following:
 [code]675C6B1CBE1AEDB491B45BD6B7D91D680DA629
 80A334E15C5DB5641ABC738122DCEF7A9AFBF8[/code] and message "invite"
+New Wiki: http://cyberlife.io/wiki Please help with adding everything onto it!
 
 >>> News <<<
 Healthy reminder that cyberpunk is now and that one should start living it instead of fantasizing like some cyberhipster
