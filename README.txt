@@ -4,7 +4,7 @@
 >TOX: #/g/punk TOX groupchat; add the following:
 [code]675C6B1CBE1AEDB491B45BD6B7D91D680DA629
 80A334E15C5DB5641ABC738122DCEF7A9AFBF8[/code] and message "invite"
-New Wiki: http://cyberlife.io/wiki Please help with adding everything onto it!
+Help with expanding new Wiki: http://cyberlife.io/wiki
 
 >>> News <<<
 Healthy reminder that cyberpunk is now and that one should start living it instead of fantasizing like some cyberhipster
@@ -32,10 +32,9 @@ https://zerobin.net/?857ea8fcd9c707dd#qWLVhJWQgKWyzDTJQP2lTlWVPLzt0u9duYMy55I3VZ
 >> Contains:
 Circumventing surveillance, in meatspace
 Encrypting your communications on the grid
-EFF fights for your freedom
 Search engines that respect your freedoms
 Mesh network technology
-Build your own GSM cellphone network
+Build your own GSM network
 Things for your smartphone
 BBS
 Public UNIX systems
