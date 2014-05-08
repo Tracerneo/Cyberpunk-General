@@ -15,7 +15,7 @@ FBI asks internet companies not to oppose mandatory backdoor law: http://www.cne
 Silkroad 2.0 now larger than original: http://www.coindesk.com/dark-web-scams-helped-silk-road-2-0-turn-crisis-opportunity/
 EFF launches new tool for stopping online tracking: https://www.eff.org/deeplinks/2014/04/privacy-badger
 Serious flaw in OpenID and OAuth discovered: http://tetraph.com/covert_redirect/oauth2_openid_covert_redirect.html
-FCC proposes opening up part of the 3.5GHz band for "Citizens Broadband" https://www.fcc.gov/document/fcc-proposes-make-150-mhz-spectrum-available-broadband
+FCC proposes opening up part of the 3.5GHz band for "Citizens Broadband": https://www.fcc.gov/document/fcc-proposes-make-150-mhz-spectrum-available-broadband
 
 Linux For Beginners: https://zerobin.net/?e0482a6e1f7d3746#1ooipttzABsRv01yc6+n3mbTVdSIashZEVK++VmjdzU=
 Cyberpunk Tech: https://zerobin.net/?afef0c2e36b9bdea#xmF0w/9qKcXsmeou4jte+9wIQ4dPeJF9dkYl/PJIdx4=
