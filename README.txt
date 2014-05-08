@@ -10,14 +10,12 @@ Help with expanding new Wiki: http://cyberlife.io/wiki
 Healthy reminder that cyberpunk is now and that one should start living it instead of fantasizing like some cyberhipster
 http://www.antipope.org/charlie/blog-static/2013/12/psa-why-there-wont-be-a-third-.html
 >Latest news from the spit jockeys
-Sercomm modems, including home routers from Netgear, Cisco (Cisco + Linksys brands) still contain a backdoor
-http://arstechnica.com/security/2014/04/easter-egg-dsl-router-patch-merely-hides-backdoor-instead-of-closing-it/
-Two degrees: How the world failed on climate change
-http://www.vox.com/2014/4/22/5551004/two-degrees
-OpenSSL code beyond repair, claims creator of “LibreSSL” fork
-http://arstechnica.com/information-technology/2014/04/openssl-code-beyond-repair-claims-creator-of-libressl-fork/
-Contact lenses with built-in cameras and other sensors are now a thing
-http://www.patentbolt.com/2014/04/google-invents-micro-camera-system-for-future-contact-lenses.html
+Sensor noise used to trace photos back to the cameras that took them: http://www.scientificamerican.com/article/tracing-photos-back-to-the-camera-that-snapped-them/
+FBI asks internet companies not to oppose mandatory backdoor law: http://www.cnet.com/news/fbi-we-need-wiretap-ready-web-sites-now/
+Silkroad 2.0 now larger than original: http://www.coindesk.com/dark-web-scams-helped-silk-road-2-0-turn-crisis-opportunity/
+EFF launches new tool for stopping online tracking: https://www.eff.org/deeplinks/2014/04/privacy-badger
+Serious flaw in OpenID and OAuth discovered: http://tetraph.com/covert_redirect/oauth2_openid_covert_redirect.html
+FCC proposes opening up part of the 3.5GHz band for "Citizens Broadband" https://www.fcc.gov/document/fcc-proposes-make-150-mhz-spectrum-available-broadband
 
 Linux For Beginners: https://zerobin.net/?e0482a6e1f7d3746#1ooipttzABsRv01yc6+n3mbTVdSIashZEVK++VmjdzU=
 Cyberpunk Tech: https://zerobin.net/?afef0c2e36b9bdea#xmF0w/9qKcXsmeou4jte+9wIQ4dPeJF9dkYl/PJIdx4=
