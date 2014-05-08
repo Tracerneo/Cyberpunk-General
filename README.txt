@@ -10,7 +10,6 @@ Help with expanding new Wiki: http://cyberlife.io/wiki
 Healthy reminder that cyberpunk is now and that one should start living it instead of fantasizing like some cyberhipster
 http://www.antipope.org/charlie/blog-static/2013/12/psa-why-there-wont-be-a-third-.html
 >Latest news from the spit jockeys
-Sensor noise used to trace photos back to the cameras that took them: http://www.scientificamerican.com/article/tracing-photos-back-to-the-camera-that-snapped-them/
 FBI asks internet companies not to oppose mandatory backdoor law: http://www.cnet.com/news/fbi-we-need-wiretap-ready-web-sites-now/
 Silkroad 2.0 now larger than original: http://www.coindesk.com/dark-web-scams-helped-silk-road-2-0-turn-crisis-opportunity/
 EFF launches new tool for stopping online tracking: https://www.eff.org/deeplinks/2014/04/privacy-badger
