@@ -2,8 +2,7 @@
 
 >IRC: #/g/punk on irc.rizon.net
 >TOX: #/g/punk TOX groupchat; add the following:
-[code]675C6B1CBE1AEDB491B45BD6B7D91D680DA629
-80A334E15C5DB5641ABC738122DCEF7A9AFBF8[/code] and message "invite"
+[code]B2074450B92DAC83964363EC52F9700BB9E7B330958509BBD795980C8D1A73308354F6F36659[/code] and message "invite"
 Help with expanding new Wiki: http://cyberlife.io/wiki
 
 >>> News <<<
