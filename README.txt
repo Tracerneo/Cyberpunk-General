@@ -1,9 +1,7 @@
 /cyb/ - The Cyberpunk General
 
 >IRC: #/g/punk on irc.rizon.net
->TOX: #/g/punk TOX groupchat; add the following:
-[code]B2074450B92DAC83964363EC52F9700BB9E7B330958509BBD795980C8D1A73308354F6F36659[/code] and message "invite"
-Help with expanding new Wiki: http://cyberlife.io/wiki
+>TOX: #/g/punk TOX groupchat; add the following [code]B2074450B92DAC83964363EC52F9700BB9E7B330958509BBD795980C8D1A73308354F6F36659[/code] and message "invite"
 
 >>> News <<<
 Healthy reminder that cyberpunk is now and that one should start living it instead of fantasizing like some cyberhipster
@@ -15,15 +13,14 @@ EFF launches new tool for stopping online tracking: https://www.eff.org/deeplink
 Serious flaw in OpenID and OAuth discovered: http://tetraph.com/covert_redirect/oauth2_openid_covert_redirect.html
 FCC proposes opening up part of the 3.5GHz band for "Citizens Broadband": https://www.fcc.gov/document/fcc-proposes-make-150-mhz-spectrum-available-broadband
 
-Linux For Beginners: http://hastebin.com/ayatakezuh.vhdl
-Cyberpunk Tech: http://hastebin.com/donafiqeha.vhdl
-Nackt's Library: http://hastebin.com/numoyasoki.vhdl
-
 >>> Finding out more <<<
-http://cyberlife.io/wiki/
 http://cyberlife.neocities.org/
 http://tracerneo.eu.org/cyb/
-http://hastebin.com/yuziwipocu.avrasm
+https://wiki.installgentoo.com/Cyberpunk
+http://wiki.cyberlife.io/
+Cyberpunk Tech: http://hastebin.com/donafiqeha.vhdl
+Linux For Beginners: http://hastebin.com/ayatakezuh.vhdl
+Nackt's Library: http://hastebin.com/numoyasoki.vhdl
 
 >> Contains:
 Circumventing surveillance, in meatspace
