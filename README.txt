@@ -20,7 +20,7 @@ Cyberpunk Tech: http://hastebin.com/donafiqeha.vhdl
 Nackt's Library: http://hastebin.com/numoyasoki.vhdl
 
 >>> Finding out more <<<
-http://wiki.installgentoo.com/Cyberpunk 
+http://cyberlife.io/wiki/
 http://cyberlife.neocities.org/
 http://tracerneo.eu.org/cyb/
 http://hastebin.com/yuziwipocu.avrasm
