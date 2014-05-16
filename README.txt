@@ -15,15 +15,15 @@ EFF launches new tool for stopping online tracking: https://www.eff.org/deeplink
 Serious flaw in OpenID and OAuth discovered: http://tetraph.com/covert_redirect/oauth2_openid_covert_redirect.html
 FCC proposes opening up part of the 3.5GHz band for "Citizens Broadband": https://www.fcc.gov/document/fcc-proposes-make-150-mhz-spectrum-available-broadband
 
-Linux For Beginners: https://zerobin.net/?e0482a6e1f7d3746#1ooipttzABsRv01yc6+n3mbTVdSIashZEVK++VmjdzU=
-Cyberpunk Tech: https://zerobin.net/?afef0c2e36b9bdea#xmF0w/9qKcXsmeou4jte+9wIQ4dPeJF9dkYl/PJIdx4=
-Nackt's Library: https://zerobin.net/?f04748b924d6fdbc#1QzrJ19Nx9mqtyTr7pgFy9wG7NQGCQ6ikLa7TRKA8+Q=
+Linux For Beginners: http://hastebin.com/ayatakezuh.vhdl
+Cyberpunk Tech: http://hastebin.com/donafiqeha.vhdl
+Nackt's Library: http://hastebin.com/numoyasoki.vhdl
 
 >>> Finding out more <<<
 http://wiki.installgentoo.com/Cyberpunk 
 http://cyberlife.neocities.org/
 http://tracerneo.eu.org/cyb/
-https://zerobin.net/?857ea8fcd9c707dd#qWLVhJWQgKWyzDTJQP2lTlWVPLzt0u9duYMy55I3VZM=
+http://hastebin.com/yuziwipocu.avrasm
 
 >> Contains:
 Circumventing surveillance, in meatspace
