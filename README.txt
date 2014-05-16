@@ -18,9 +18,7 @@ http://cyberlife.neocities.org/
 http://tracerneo.eu.org/cyb/
 https://wiki.installgentoo.com/Cyberpunk
 http://wiki.cyberlife.io/
-Cyberpunk Tech: http://hastebin.com/donafiqeha.vhdl
-Linux For Beginners: http://hastebin.com/ayatakezuh.vhdl
-Nackt's Library: http://hastebin.com/numoyasoki.vhdl
+Nackt's Cyberpunk Tech, Linux For Beginners & Library: http://tracerneo.eu.org/cyb/textfiles/
 
 >> Contains:
 Circumventing surveillance, in meatspace
