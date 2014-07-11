@@ -13,7 +13,6 @@ No one updates it, read thread instead.
 http://cyberlife.neocities.org/
 http://tracerneo.eu.org/cyb/
 https://wiki.installgentoo.com/Cyberpunk
-http://wiki.cyberlife.io/
 Linux For Beginners, Nackt's Cyberpunk Tech & Library: http://tracerneo.eu.org/cyb/textfiles/
 Archive: https://archive.rebeccablacktech.com/g/?task=search2&search_subject=Cyberpunk&search_op=op
 
