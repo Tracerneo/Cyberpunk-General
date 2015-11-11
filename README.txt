@@ -10,7 +10,7 @@ http://www.antipope.org/charlie/blog-static/2013/12/psa-why-there-wont-be-a-thir
 No one updates it, read thread instead.
 
 >>> Finding out more <<<
-http://cyberlife.neocities.org/
+http://jinteki.industries/
 http://tracerneo.eu.org/cyb/
 https://wiki.installgentoo.com/Cyberpunk
 Linux For Beginners, Nackt's Cyberpunk Tech & Library: http://tracerneo.eu.org/cyb/textfiles/
